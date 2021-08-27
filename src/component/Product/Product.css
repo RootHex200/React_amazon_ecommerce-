@@ -1,0 +1,15 @@
+
+.product{
+    display: flex;
+    border-bottom: 1px solid lightslategray;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.productdata{
+    margin-left: 10px;
+    font-weight: 400;
+    color:blue;
+}
